@@ -50,5 +50,3 @@ export default {
   font-family: Arial, sans-serif;
 }
 </style>
-
-

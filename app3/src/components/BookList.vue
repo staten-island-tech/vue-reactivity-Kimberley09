@@ -69,5 +69,3 @@ export default {
   background-color: darkgreen;
 }
 </style>
-
-
